@@ -156,9 +156,9 @@ Nodemailer is used to send emails to doctors upon booking an appointment.
 
 ## 👨‍💻 Developer
 
-**Sohan Roy Chowdhury (SRC)**  
+**Prathyush P**  
 B.Tech CSE @ IIT ISM Dhanbad  
-[GitHub](https://github.com/iitiansohan) | [LinkedIn](https://linkedin.com/in/sohan-roy-chowdhury)
+[GitHub](https://github.com/Poppoipeeps) | [LinkedIn](https://www.linkedin.com/in/prathyush-p-90b506308/)
 
 ---
 
